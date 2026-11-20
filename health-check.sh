@@ -10,4 +10,4 @@ uname -a
 echo "Checking disk usage..."
 df -h
 
-echo "Updated Health Check - Version 2.0""
+echo "Updated Health Check - Version 2.0"
