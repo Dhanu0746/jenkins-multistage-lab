@@ -5,7 +5,7 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     return jsonify({
-        "message": "Jenkins Pipeline Application",
+        "message": "Jenkins Pipeline Application - Version 2.0",
         "status": "Running Successfully"
     })
 
